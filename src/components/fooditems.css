@@ -1,0 +1,41 @@
+h3 {
+    color: whitesmoke;
+}
+
+.box{
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #e1e1e1;
+    text-align: center;
+    
+    
+}
+
+.subitems{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color:cadetblue;
+    display: flex;
+    color: white;
+    padding: 20px;
+    justify-content: space-between;
+}
+.veg{
+    margin-right: 10px;
+    color: green;
+}
+
+.nonveg{
+    margin-right: 10px;
+    color: red;
+}
+
+.cock{
+    margin-right: 10px;
+}
+
+.mock{
+    margin-right: 10px;
+}
